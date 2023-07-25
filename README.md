@@ -1,2 +1,2 @@
 # Github
-Kanty Github Repository
+Kanty Projects Github Repository

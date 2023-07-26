@@ -55,6 +55,12 @@ _**'tabulate'**_ library (can be installed via _**'pip install tabulate'**_)
 . **'cost'**: The cost of the shoe.
 . **'quantity'**: The quantity available in the inventory.
 
+
+Screenshots:
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+
 ## Note:
 
    Make sure to have the _**'inventory.txt'**_ file in the same directory as the script for data loading purposes.

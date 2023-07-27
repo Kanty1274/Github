@@ -6,8 +6,8 @@ This is a simple inventory management system implemented in Python. It allows yo
 
 ## Requirements:
 
-Python 3.x
-_**'tabulate'**_ library (can be installed via _**'pip install tabulate'**_)
+- Python 3.x
+- _**'tabulate'**_ library (can be installed via _**'pip install tabulate'**_)
 
 ## Usage:
 
@@ -49,11 +49,11 @@ _**'tabulate'**_ library (can be installed via _**'pip install tabulate'**_)
 ## Shoe Class
    The **'Shoe'** class represents a shoe object and contains the following attributes:
 
-. **'country'**: The country of the shoe.
-. **'code'**: The unique code of the shoe.
-. **'product'**: The product description of the shoe.
-. **'cost'**: The cost of the shoe.
-. **'quantity'**: The quantity available in the inventory.
+- **'country'**: The country of the shoe.
+- **'code'**: The unique code of the shoe.
+- **'product'**: The product description of the shoe.
+- **'cost'**: The cost of the shoe.
+- **'quantity'**: The quantity available in the inventory.
 
 
 ## Screenshots:

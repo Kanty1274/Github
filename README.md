@@ -56,11 +56,17 @@ _**'tabulate'**_ library (can be installed via _**'pip install tabulate'**_)
 . **'quantity'**: The quantity available in the inventory.
 
 
-Screenshots:
+## Screenshots:
 
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 
+## Credits
+
+This project was created by [Sinqobile Kanty Moluli]. 
+- [Contributor 1](https://github.com/Kanty1274/Github/) - [Owner]
+- [Contributor 2](link-to-github-profile-2) - [Role]
+  
 ## Note:
 
    Make sure to have the _**'inventory.txt'**_ file in the same directory as the script for data loading purposes.
@@ -69,4 +75,5 @@ Screenshots:
   Feel free to use, modify, and distribute this inventory management system according to your needs.
 
   Happy shoe inventory management! 🚀
+  
   
